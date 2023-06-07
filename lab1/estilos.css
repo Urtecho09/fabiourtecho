@@ -1,0 +1,27 @@
+body{
+    background-color: #e6e5e5;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+
+}
+
+h1{
+    text-align: center;
+    color: rgb(0, 67, 138);
+}
+
+#contenedor{
+    text-align: center;
+    border-color: rgb(0, 81, 87);
+}
+
+input{
+    padding: 10px;
+    font-size: 16px;
+}
+
+button{
+    padding: 10px;
+    cursor: pointer;
+}
